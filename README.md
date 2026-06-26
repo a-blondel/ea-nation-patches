@@ -15,13 +15,17 @@ A project dedicated to provide patches to get games to connect to a private serv
 - Drop your `.iso` in the first field, drop the XDelta patch in the second, and click `Apply patch`
 
 
-## [PS2] Pnach & Xdelta patches
+## [PS2] OPL, pnach & Xdelta patches
 
 ### Available patches
 - **DNAS bypass** : all patches are made to bypass DNAS checks
-  - Check either the `PS2/pnach` or `PS2/Xdelta` folder for your game.
+  - Check either the `PS2/OPL`, `PS2/pnach` or `PS2/Xdelta` folder for your game.
 
 ### Usage
+
+- **Open PS2 Loader (OPL)**
+  - Copy the `.cht` file matching your game's ID from the `PS2/OPL` folder to the `CHT` folder of your FMCB installation.
+  - Enable cheats in OPL (Options > Cheats Settings > PS2RD Cheat Engine > ON > Save Changes)
 
 - **Pnach**
   - Copy the `.pnach` file(s) matching your game's ID from the `PS2/pnach` folder to the `cheats` folder of your PCSX2 installation. ⚠️ Beware, some games have multiple pnach files.

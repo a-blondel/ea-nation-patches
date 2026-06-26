@@ -1,0 +1,8 @@
+[Network\Online Patches]
+author=EA Nation Hub
+description=Online patches: DNAS + SSL + PORT
+patch=1,EE,2079D304,extended,00000000
+patch=1,EE,20778D48,extended,24E70000
+patch=1,EE,20778D50,extended,00000000
+patch=1,EE,20778D24,extended,34079C40
+patch=1,EE,20778D18,extended,34079C40

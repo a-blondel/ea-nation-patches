@@ -1,0 +1,6 @@
+[Network\DNAS Patch]
+author=EA Nation Hub
+description=DNAS + SSL bypass
+patch=1,EE,201E16CC,extended,00000000
+patch=1,EE,201E4088,extended,24E70000
+patch=1,EE,201E4090,extended,00000000

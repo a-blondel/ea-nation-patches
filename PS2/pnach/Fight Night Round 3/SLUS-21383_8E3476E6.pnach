@@ -1,0 +1,4 @@
+[Network\DNAS Patch]
+author=EA Nation Hub
+description=DNAS bypass
+patch=1,EE,2045144C,extended,00000000
