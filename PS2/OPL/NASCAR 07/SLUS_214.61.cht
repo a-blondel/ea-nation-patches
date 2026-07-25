@@ -1,14 +1,12 @@
 "NASCAR07 /ID SLUS_214.61"
-//DNAS bypass Main Game
+//Online patches — Main Game
 90387AF8 0C0E1E66
+//DNAS bypass: Skip the DNAS authentication check.
 20486324 00000000
 201E16CC 00000000
-201E4088 24E70000
-201E4090 00000000
 
-//DNAS + SSL bypass EA Dashboard
+//Online patches — EA Dashboard
 9023D658 0C08F53E
+//DNAS bypass: Skip the DNAS authentication check.
 20486324 00000000
 201E16CC 00000000
-201E4088 24E70000
-201E4090 00000000

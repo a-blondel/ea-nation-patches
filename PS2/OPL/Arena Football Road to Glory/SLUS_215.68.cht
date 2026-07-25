@@ -1,14 +1,12 @@
 "AFL07 /ID SLUS_215.68"
-//DNAS bypass Main Game
+//Online patches — Main Game
 90678DB8 0C19E316
+//DNAS bypass: Skip the DNAS authentication check.
 206DE8DC 00000000
 201E16CC 00000000
-201E4088 24E70000
-201E4090 00000000
 
-//DNAS + SSL bypass EA Dashboard
+//Online patches — EA Dashboard
 9023D698 0C08F54E
+//DNAS bypass: Skip the DNAS authentication check.
 206DE8DC 00000000
 201E16CC 00000000
-201E4088 24E70000
-201E4090 00000000

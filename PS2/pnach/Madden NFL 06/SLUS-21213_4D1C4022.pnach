@@ -1,8 +1,10 @@
-[Network\Online Patches]
+[DNAS bypass]
 author=EA Nation Hub
-description=Online patches: DNAS + SSL + PORT
+description=Skip the DNAS authentication check.
 patch=1,EE,2079D304,extended,00000000
-patch=1,EE,20778D48,extended,24E70000
-patch=1,EE,20778D50,extended,00000000
+
+[Game port]
+author=EA Nation Hub
+description=Set the game port to 40000.
 patch=1,EE,20778D24,extended,34079C40
 patch=1,EE,20778D18,extended,34079C40
