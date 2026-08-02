@@ -1,0 +1,12 @@
+"UEFA06 /ID SLES_540.81"
+//Online patches — Main Game
+90346468 0C0D18C2
+//DNAS bypass: Skip the DNAS authentication check.
+20628C94 00000000
+2020759C 00000000
+
+//Online patches — EA Dashboard
+9024C6F8 0C093166
+//DNAS bypass: Skip the DNAS authentication check.
+20628C94 00000000
+2020759C 00000000

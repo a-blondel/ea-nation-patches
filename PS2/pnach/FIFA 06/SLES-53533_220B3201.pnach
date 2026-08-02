@@ -1,0 +1,4 @@
+[DNAS bypass]
+author=EA Nation Hub
+description=Skip the DNAS authentication check.
+patch=1,EE,205DFA94,extended,00000000
