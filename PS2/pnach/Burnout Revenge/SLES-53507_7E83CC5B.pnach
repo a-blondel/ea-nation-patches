@@ -1,0 +1,5 @@
+[DNAS bypass]
+author=EA Nation Hub
+description=Force the DNAS module-poll result to success (skips the auth wait).
+patch=1,EE,201C5080,extended,1000003E
+patch=1,EE,201C5064,extended,00000000

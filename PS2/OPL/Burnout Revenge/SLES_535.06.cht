@@ -1,0 +1,14 @@
+"BURNOUT06 /ID SLES_535.06"
+//Online patches — Main Game
+90449E08 0C11272A
+//DNAS bypass: Force the DNAS module-poll result to success (skips the auth wait).
+201C5018 1000003E
+201C4FFC 00000000
+20202494 00000000
+
+//Online patches — EA Dashboard
+90247BB8 0C091E96
+//DNAS bypass: Force the DNAS module-poll result to success (skips the auth wait).
+201C5018 1000003E
+201C4FFC 00000000
+20202494 00000000
