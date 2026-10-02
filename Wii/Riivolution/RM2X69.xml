@@ -13,12 +13,6 @@
                     <patch id="wiimmfi" />
                 </choice>
             </option>
-            
-            <option name="Serverless" default="1">
-                <choice name="Enabled">
-                    <patch id="serverless" />
-                </choice>
-            </option>
         </section>
         
         <section name="Mods">
@@ -106,12 +100,6 @@
     <!-- Use Wiimmfi -->
     <patch id="wiimmfi">
         <file disc="/game.dol" external="mohh2/RM2X69/wiimmfi-nas.bin" resize="false" offset="0x65eee0" />
-    </patch>
-    
-    <!-- Serverless -->
-    <patch id="serverless">
-        <file disc="/game.dol" external="mohh2/common/nop.bin" resize="false" offset="0x11A20" />
-        <file disc="/game.dol" external="mohh2/common/serverless.bin" resize="false" offset="0x59318C" />
     </patch>
     
     <!-- Panzerschreck -->
